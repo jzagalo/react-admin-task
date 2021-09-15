@@ -1,0 +1,78 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "firstName": "Mollee",
+      "lastName": "Goss",
+      "email": "mgoss0@telegraph.co.uk"
+    },
+    {
+      "id": 2,
+      "firstName": "Aurie",
+      "lastName": "Gozney",
+      "email": "agozney1@rakuten.co.jp"
+    },
+    {
+      "id": 3,
+      "firstName": "Lia",
+      "lastName": "Lippard",
+      "email": "llippard2@themeforest.net"
+    },
+    {
+      "id": 4,
+      "firstName": "Silvan",
+      "lastName": "Marshal",
+      "email": "smarshal3@deliciousdays.com"
+    },
+    {
+      "id": 5,
+      "firstName": "Eadmund",
+      "lastName": "Gravet",
+      "email": "egravet4@cocolog-nifty.com"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "author_id": 1,
+      "name": "Rubiaceae",
+      "genre": "Urticaceae",
+      "createdAt": "4/4/2021"
+    },
+    {
+      "id": 2,
+      "author_id": 1,
+      "name": "Ericaceae",
+      "genre": "Bombacaceae",
+      "createdAt": "1/28/2021"
+    },
+    {
+      "id": 3,
+      "author_id": 3,
+      "name": "Campanulaceae",
+      "genre": "Catillariaceae",
+      "createdAt": "2/3/2021"
+    },
+    {
+      "id": 4,
+      "author_id": 3,
+      "name": "Euphorbiaceae",
+      "genre": "Cuscutaceae",
+      "createdAt": "11/29/2020"
+    },
+    {
+      "id": 5,
+      "author_id": 5,
+      "name": "Betulaceae",
+      "genre": "Polemoniaceae",
+      "createdAt": "2/14/2021"
+    },
+    {
+      "author_id": 6,
+      "name": "Android",
+      "genre": "Kiloce",
+      "createdAt": "12/14/2021",
+      "id": 6
+    }
+  ]
+}
