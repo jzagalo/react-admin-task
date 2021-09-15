@@ -39,13 +39,6 @@
   ],
   "books": [
     {
-      "id": 1,
-      "author_id": 1,
-      "name": "Rubiaceae",
-      "genre": "Urticaceae",
-      "createdAt": "4/4/2021"
-    },
-    {
       "id": 2,
       "author_id": 1,
       "name": "Ericaceae",
@@ -79,6 +72,12 @@
       "genre": "Kiloce",
       "createdAt": "12/14/2021",
       "id": 6
+    },
+    {
+      "name": "First",
+      "genre": "Scene",
+      "createdAt": "2021-09-06",
+      "id": 7
     }
   ]
 }
