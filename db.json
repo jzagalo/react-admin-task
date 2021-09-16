@@ -2,7 +2,7 @@
   "authors": [
     {
       "id": 1,
-      "firstName": "Mollee",
+      "firstName": "Mollees",
       "lastName": "Goss",
       "email": "mgoss0@telegraph.co.uk"
     },
@@ -31,9 +31,9 @@
       "email": "egravet4@cocolog-nifty.com"
     },
     {
-      "firstName": "Lagbaja",
-      "lastName": "Kings",
-      "email": "method@yahoo.com",
+      "firstName": "All ",
+      "lastName": "For ",
+      "email": "allforone@gmail.com",
       "id": 6
     }
   ],
@@ -75,9 +75,15 @@
     },
     {
       "name": "First",
-      "genre": "Scene",
+      "genre": "Scene1",
       "createdAt": "2021-09-06",
       "id": 7
+    },
+    {
+      "name": "Stop",
+      "genre": "Final",
+      "createdAt": "2021-09-14",
+      "id": 8
     }
   ]
 }
